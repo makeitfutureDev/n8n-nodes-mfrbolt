@@ -47,9 +47,9 @@
     "typescript": "^5.1.3"
   },
   "peerDependencies": {
-    "n8n-workflow": "*"
+    "n8n-workflow": ">=1.0.0"
   },
   "dependencies": {
-    "n8n-core": "^1.0.0"
+    "n8n-workflow": ">=1.0.0"
   }
 }
