@@ -5,7 +5,7 @@ import {
   INodeProperties,
 } from 'n8n-workflow';
 
-export class MfrBoltApiCredentials implements ICredentialType {
+export class MfrBoltApi implements ICredentialType {
   name = 'mfrBoltApiCredentials';
   displayName = 'MfrBolt API Credentials';
   documentationUrl = 'https://documenter.getpostman.com/view/3999268/TVYCAzpK';
